@@ -103,5 +103,5 @@ setlocal enableextensions enabledelayedexpansion
     )
     echo(
     echo(:: Done
-call C:\%USERPROFILE%\Desktop\OSv1\Set-Up\OS-StartUp\OS-Start.bat
+call C:\OSv1\Set-Up\OS-StartUp\OS-Start.bat
 cls
