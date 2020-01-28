@@ -23,5 +23,5 @@
     )
     echo(
     echo(:: Done
-call C:\%USERPROFILE%\Desktop\OSv1\Set-Up\boot\boot.bat
+call C:\OSv1\Set-Up\boot\boot.bat
 cls
