@@ -23,4 +23,4 @@ setlocal enableextensions enabledelayedexpansion
     )
     echo(
     echo(:: OS Started
-c
+call C:\OSv1\Set-Up\OS\OS.bat
